@@ -13,3 +13,8 @@ Consider yourself as a junior supply chain analyst in the supply chain team who 
 - Create the metrics according to the metrics list.
 - Create a dashboard according to the requirements provided by stakeholders in the business review meeting. 
 - Create relevant insights not provided in the metric list/stakeholder meeting.
+
+**Project Video**
+
+https://github.com/abdullahayub/Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain/assets/37545634/db6c0645-d7ef-46b1-ba3b-ca9642713b24
+
