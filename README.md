@@ -1,5 +1,7 @@
 # Generate-Insights-to-Solve-a-Supply-Chain-Issue-in-the-FMCG-domain
 
+## Click here for <a href="https://app.powerbi.com/view?r=eyJrIjoiYWNjZDY4NjktNzhiNy00OGUxLTk4MTAtNmEzMTJjNTkyNGMyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" target="blank">Live Dashboard</a> 
+
 **Problem Statement**
 AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is currently operational in three cities Surat, Ahmedabad and Vadodara. They want to expand to other metros/Tier 1 cities in the next 2 years.
 
